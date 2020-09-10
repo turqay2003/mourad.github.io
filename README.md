@@ -1,2 +1,2 @@
-# mourad.github.io
+# mouradedits.github.io
 personal website
